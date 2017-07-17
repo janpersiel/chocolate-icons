@@ -4,6 +4,9 @@
 ### About Chocolate Icons
 The Chocolate Icons are icons to be used by everyone for all kinds of projects. Starting with the **Chocolate White** set which comes in a light flavour based on lines and without fills. The icons aim to be generic and clean enough to be used in many scenarios and projects without being too strong in their own appearance. Rather than standing out these icons try to enhance and/or decorate anything from a button, a teaser, a slider.
 
+### Overview
+![preview](documentation/img/preview.png)
+
 And why chocolate you might ask? Well, because everyone loves chocolate and it makes people happy. And so should the icons. Hope you like chocolate.
 
 ### The Basics
